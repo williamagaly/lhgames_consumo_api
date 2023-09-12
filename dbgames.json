@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Jogo da Copa",
+      "descricao": "Simule a Copa do Mundo de 2022 com 32 seleções de futebol.",
+      "foto": "jogo1.PNG",
+      "preco": 300
+    },
+    {
+      "id": 2,
+      "produto": "The Evil Witch",
+      "descricao": " Cace a bruxa malvada que assombra uma floresta sombria.",
+      "foto": "jogo2.PNG",
+      "preco": 200
+    },
+    {
+      "id": 3,
+      "produto": "Artificial Forces",
+      "descricao": "Crie máquinas e robôs em um mundo futurista.",
+      "foto": "jogo3.PNG",
+      "preco": 400
+    }
+  ]
+}
